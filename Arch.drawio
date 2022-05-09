@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T05:43:57.320Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Mpegjr-9gUq_huuBKm-t" version="18.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-09T05:55:05.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="1hI5PuC6mDpoLXzXGEg1" version="18.0.1" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Whole_arch">
     <mxGraphModel dx="1892" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -438,7 +438,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mA9ouF3RaEfctAoxbU-U" name="Application Chain Asset">
-    <mxGraphModel dx="1720" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -659,10 +659,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QzD59LcxyiCYfnGdim3O-21" value="3pp.starbucks.com.cn/wsgbff" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="v2BWGfwRVVUPkCRsSJ6M-66" source="QzD59LcxyiCYfnGdim3O-10" target="qFwmCd0osZzuR0E7HiHh-4">
-          <mxGeometry x="-0.3591" y="-4" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.4752" y="-2" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="175" as="sourcePoint" />
             <mxPoint x="200" y="405" as="targetPoint" />
-            <mxPoint y="-1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QzD59LcxyiCYfnGdim3O-22" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Web BFF&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontSize=6;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
@@ -712,8 +712,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QzD59LcxyiCYfnGdim3O-32" value="bff.starbucks.com.cn/web-bff-api" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="v2BWGfwRVVUPkCRsSJ6M-66" source="QzD59LcxyiCYfnGdim3O-8" target="QzD59LcxyiCYfnGdim3O-22">
-          <mxGeometry x="-0.2415" y="4" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="QzD59LcxyiCYfnGdim3O-32" value="profile.starbucks.com.cn" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="v2BWGfwRVVUPkCRsSJ6M-66" source="QzD59LcxyiCYfnGdim3O-8" target="5UJs6BnoAASIVDI1Z4WO-6">
+          <mxGeometry x="-0.8345" y="1" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="935" y="175" as="sourcePoint" />
             <mxPoint x="770" y="405" as="targetPoint" />
             <mxPoint as="offset" />
@@ -868,6 +868,12 @@
         <mxCell id="QzD59LcxyiCYfnGdim3O-25" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.beacon;part=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontColor=#EA6B66;" vertex="1" parent="QzD59LcxyiCYfnGdim3O-24">
           <mxGeometry x="0.5" width="36.5" height="50" relative="1" as="geometry">
             <mxPoint x="-18.25" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="65Z8Fy80GCGU9XWEe-bp-2" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;fontFamily=Verdana;fontSize=10;fontColor=#EA6B66;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="v2BWGfwRVVUPkCRsSJ6M-66" source="QzD59LcxyiCYfnGdim3O-58" target="qFwmCd0osZzuR0E7HiHh-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="465" as="sourcePoint" />
+            <mxPoint x="600" y="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
