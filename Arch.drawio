@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T04:33:14.295Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="DGRqGo9x5NKXd8eJibCM" version="18.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-09T04:35:27.718Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="-eMGrQCkczMMy_2fgzmN" version="18.0.1" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Whole_arch">
     <mxGraphModel dx="1825" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -442,7 +442,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mA9ouF3RaEfctAoxbU-U" name="Application Chain Asset">
-    <mxGraphModel dx="1720" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2365" dy="1455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -639,7 +639,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QzD59LcxyiCYfnGdim3O-12" value="TMall" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;" vertex="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
-          <mxGeometry x="260" y="80" width="70" height="85" as="geometry" />
+          <mxGeometry x="180" y="80" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QzD59LcxyiCYfnGdim3O-13" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.beacon;part=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontColor=#EA6B66;" vertex="1" parent="QzD59LcxyiCYfnGdim3O-12">
           <mxGeometry x="0.5" width="36.5" height="50" relative="1" as="geometry">
@@ -662,13 +662,6 @@
             <mxPoint x="-18.25" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QzD59LcxyiCYfnGdim3O-20" value="3pp.starbucks.com.cn/alibff" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="v2BWGfwRVVUPkCRsSJ6M-66" source="QzD59LcxyiCYfnGdim3O-24" target="QzD59LcxyiCYfnGdim3O-23">
-          <mxGeometry x="-0.3508" y="-3" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="410" as="sourcePoint" />
-            <mxPoint x="730" y="360" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QzD59LcxyiCYfnGdim3O-21" value="3pp.starbucks.com.cn/wsgbff" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="v2BWGfwRVVUPkCRsSJ6M-66" source="QzD59LcxyiCYfnGdim3O-10" target="qFwmCd0osZzuR0E7HiHh-4">
           <mxGeometry x="-0.3591" y="-4" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="175" as="sourcePoint" />
@@ -682,16 +675,8 @@
         <mxCell id="QzD59LcxyiCYfnGdim3O-23" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Caramel BFF&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontSize=5;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
           <mxGeometry x="40" y="395" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QzD59LcxyiCYfnGdim3O-24" value="高德" style="strokeColor=#666666;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
-          <mxGeometry x="100" y="80" width="70" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="QzD59LcxyiCYfnGdim3O-25" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.beacon;part=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontColor=#EA6B66;" vertex="1" parent="QzD59LcxyiCYfnGdim3O-24">
-          <mxGeometry x="0.5" width="36.5" height="50" relative="1" as="geometry">
-            <mxPoint x="-18.25" y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QzD59LcxyiCYfnGdim3O-26" value="支付宝" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;" vertex="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
-          <mxGeometry x="180" y="80" width="70" height="85" as="geometry" />
+          <mxGeometry x="100" y="82" width="70" height="85" as="geometry" />
         </mxCell>
         <mxCell id="QzD59LcxyiCYfnGdim3O-27" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.beacon;part=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontColor=#EA6B66;" vertex="1" parent="QzD59LcxyiCYfnGdim3O-26">
           <mxGeometry x="0.5" width="36.5" height="50" relative="1" as="geometry">
@@ -709,6 +694,11 @@
           <mxGeometry x="0.5217" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="185" y="175" as="sourcePoint" />
             <mxPoint x="120" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QzD59LcxyiCYfnGdim3O-66" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;3pp.starbucks.com.cn/alibff&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;" vertex="1" connectable="0" parent="QzD59LcxyiCYfnGdim3O-29">
+          <mxGeometry x="-0.4865" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -874,6 +864,14 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="780" as="sourcePoint" />
             <mxPoint x="760" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QzD59LcxyiCYfnGdim3O-24" value="高德" style="strokeColor=#666666;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
+          <mxGeometry x="260" y="82" width="70" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="QzD59LcxyiCYfnGdim3O-25" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.beacon;part=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontColor=#EA6B66;" vertex="1" parent="QzD59LcxyiCYfnGdim3O-24">
+          <mxGeometry x="0.5" width="36.5" height="50" relative="1" as="geometry">
+            <mxPoint x="-18.25" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
