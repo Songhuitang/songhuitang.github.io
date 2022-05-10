@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T06:48:20.633Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="r6wBA4RdgNYB50oitBXJ" version="18.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-10T07:06:07.504Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="YVUe2rL9izlxr86vV-cM" version="18.0.1" type="github" pages="6">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Whole_arch">
     <mxGraphModel dx="2156" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -919,7 +919,7 @@
           <mxGeometry x="87" y="535" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mZXW-xaxlqqjR9hC_c14-14" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;BizOps&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontSize=6;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
-          <mxGeometry x="1227" y="533" width="160" height="60" as="geometry" />
+          <mxGeometry x="1187" y="520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FF1iMbZqg1gpQZHJTFPM-1" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;fontFamily=Verdana;fontSize=10;fontColor=#EA6B66;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v2BWGfwRVVUPkCRsSJ6M-66" source="5UJs6BnoAASIVDI1Z4WO-6" target="qFwmCd0osZzuR0E7HiHh-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1012,7 +1012,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FPUonOmb24sPlE5R8LKb" name="Application Chain Coupon">
-    <mxGraphModel dx="2372" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1495,9 +1495,6 @@
         <mxCell id="NNgHCzHfLf1FwVmK6iBX-113" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;BizOps&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontSize=6;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="NNgHCzHfLf1FwVmK6iBX-1">
           <mxGeometry x="1227" y="533" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lmarbeDxCiQhiaT4DAeb-1" value="EC/TM退货中涉及lifecycle回收&lt;br&gt;好礼券查询&lt;br&gt;好礼券（劵删除）&lt;br&gt;好礼劵延期&lt;br&gt;Upp券&lt;br&gt;实体星礼卡&lt;br&gt;电子星礼卡&lt;br&gt;查询" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="315" width="200" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="qXDtp9jShxuDwrI5qrCB-1" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;1&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2080" y="80" width="35" height="35" as="geometry" />
         </mxCell>
@@ -1525,15 +1522,6 @@
         <mxCell id="qXDtp9jShxuDwrI5qrCB-9" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;9&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2080" y="480" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="qXDtp9jShxuDwrI5qrCB-10" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;10&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="530" width="35" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="qXDtp9jShxuDwrI5qrCB-11" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;11&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="579.5" width="35" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="qXDtp9jShxuDwrI5qrCB-12" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;11&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="625" width="35" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="YC3Jk9DU3h37_kyFIEtA-1" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;好礼券上新&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="2120" y="82.5" width="90" height="30" as="geometry" />
         </mxCell>
@@ -1546,11 +1534,26 @@
         <mxCell id="YC3Jk9DU3h37_kyFIEtA-6" value="&lt;span style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;好礼券退货&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="2120" y="232.5" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ABg0H3XCL3Bd-8bZjRqt-1" value="&lt;span style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;EC/TMall退货中lifecycle回收&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="285" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABg0H3XCL3Bd-8bZjRqt-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;好礼券查询&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="332.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABg0H3XCL3Bd-8bZjRqt-3" value="&lt;span style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;好礼劵删除&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABg0H3XCL3Bd-8bZjRqt-4" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;好礼劵延期&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="432.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABg0H3XCL3Bd-8bZjRqt-5" value="&lt;span style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;UPP券查询绑定同步&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="7LysxKPosRdF19-40poD" name="Application Chain Star">
-    <mxGraphModel dx="1825" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1130" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2033,9 +2036,6 @@
         <mxCell id="vR64lTdbQB5Q96nW2Vg--113" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;BizOps&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontSize=6;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vR64lTdbQB5Q96nW2Vg--1">
           <mxGeometry x="1227" y="533" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lj7NxCFJ3IE6kA5jDX5k-1" value="星星账户&#xa;星星查询&#xa;星星核销/取消核销&#xa;加星/减星&#xa;星星锁定/解锁&#xa;星星通知" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="150" width="130" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Ip4XjNWf5eXP_gkCcqmB-1" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;1&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2080" y="80" width="35" height="35" as="geometry" />
         </mxCell>
@@ -2054,23 +2054,23 @@
         <mxCell id="Ip4XjNWf5eXP_gkCcqmB-6" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;6&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2080" y="330" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Ip4XjNWf5eXP_gkCcqmB-7" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;7&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="380" width="35" height="35" as="geometry" />
+        <mxCell id="2OglvSUoWDSa2Jo-ByjD-1" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;星星账户变动&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="82.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ip4XjNWf5eXP_gkCcqmB-8" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;8&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="430" width="35" height="35" as="geometry" />
+        <mxCell id="2OglvSUoWDSa2Jo-ByjD-2" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;星星查询&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="132.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ip4XjNWf5eXP_gkCcqmB-9" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;9&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="480" width="35" height="35" as="geometry" />
+        <mxCell id="2OglvSUoWDSa2Jo-ByjD-3" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;星星核销/取消核销&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="182.5" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ip4XjNWf5eXP_gkCcqmB-10" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;10&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="530" width="35" height="35" as="geometry" />
+        <mxCell id="2OglvSUoWDSa2Jo-ByjD-5" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;加星/减星&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="232.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ip4XjNWf5eXP_gkCcqmB-11" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;11&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="579.5" width="35" height="35" as="geometry" />
+        <mxCell id="2OglvSUoWDSa2Jo-ByjD-6" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;星星锁定/解锁&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="282.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ip4XjNWf5eXP_gkCcqmB-12" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;11&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="625" width="35" height="35" as="geometry" />
+        <mxCell id="2OglvSUoWDSa2Jo-ByjD-7" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 255); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;星星通知&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Lucida Console;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="332.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2598,6 +2598,14 @@
         <mxCell id="ewAofYx-CG7CZEdH1eHM-12" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;11&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2080" y="625" width="35" height="35" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3a8gpx_YgkSoHRA-U0PT" name="Application Chain Card">
+    <mxGraphModel dx="1186" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
