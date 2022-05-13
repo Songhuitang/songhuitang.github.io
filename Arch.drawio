@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T05:13:40.995Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ozexDAVGJiOE3lv5K7nf" version="18.0.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-13T05:25:05.159Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="KvBvZJsK3IR5pvIlnVZD" version="18.0.3" type="github" pages="9">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Whole_arch">
     <mxGraphModel dx="1186" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -510,15 +510,6 @@
         </mxCell>
         <mxCell id="qFwmCd0osZzuR0E7HiHh-7" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;FC&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontSize=6;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="v2BWGfwRVVUPkCRsSJ6M-66" vertex="1">
           <mxGeometry x="158.5" y="682.5" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5x20nt1euc817iq7_VCJ-5" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;fontFamily=Verdana;fontSize=10;fontColor=#EA6B66;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="v2BWGfwRVVUPkCRsSJ6M-66" source="qFwmCd0osZzuR0E7HiHh-7" target="5UJs6BnoAASIVDI1Z4WO-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="465" as="sourcePoint" />
-            <mxPoint x="329.9999999999998" y="545" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="600" y="890" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="5x20nt1euc817iq7_VCJ-6" value="" style="endArrow=classic;html=1;sketch=0;fontFamily=Verdana;fontSize=10;fontColor=#EA6B66;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;startArrow=none;" parent="v2BWGfwRVVUPkCRsSJ6M-66" source="BVoOb54HQeATzCPe1jVD-29" target="5UJs6BnoAASIVDI1Z4WO-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1495,6 +1486,23 @@
         <mxCell id="BVoOb54HQeATzCPe1jVD-531" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px&quot;&gt;10.3.1&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
           <mxGeometry x="47.5" y="707.5" width="35" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="BVoOb54HQeATzCPe1jVD-533" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="930" as="sourcePoint" />
+            <mxPoint x="290.00500000000005" y="745" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVoOb54HQeATzCPe1jVD-534" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;1.5.3&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#66B2FF;fontColor=#ffffff;" vertex="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
+          <mxGeometry x="677" y="903.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="BVoOb54HQeATzCPe1jVD-535" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="v2BWGfwRVVUPkCRsSJ6M-66" source="5UJs6BnoAASIVDI1Z4WO-11" target="BVoOb54HQeATzCPe1jVD-534">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="751.5" y="1056.75" as="sourcePoint" />
+            <mxPoint x="310.0050000000001" y="865" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="o_Ceyrz_SQkg0Wvn2wVu-1" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;1&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="2080" y="80" width="35" height="35" as="geometry" />
         </mxCell>
@@ -1617,7 +1625,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BVoOb54HQeATzCPe1jVD-460" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1.1 ng创建星礼包产品&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1.2 biz调用s4查询星礼包信息&lt;/span&gt;&lt;br style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1.3 根据poskey查询星礼包&lt;br&gt;1.4 调用星礼包定义接口&lt;br&gt;1.5.1 星礼包同步PC&lt;br&gt;1.5.2 星礼包同步FC email&lt;br&gt;1.5.3星礼包同步CAC&lt;br&gt;1.5.4星礼包同步POS（email）&lt;br&gt;1.5.5 同步DOMS（email）&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="BVoOb54HQeATzCPe1jVD-460" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1.1 ng创建星礼包产品&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1.2 biz调用s4查询星礼包信息&lt;/span&gt;&lt;br style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1.3 根据poskey查询星礼包&lt;br&gt;1.4 调用星礼包定义接口&lt;br&gt;1.5.1 星礼包同步PC&lt;br&gt;1.5.2 星礼包同步CAC email&lt;br&gt;1.5.3星礼包同步FC&lt;br&gt;1.5.4星礼包同步POS（email）&lt;br&gt;1.5.5 同步DOMS（email）&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="1860" y="1280" width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="BVoOb54HQeATzCPe1jVD-468" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.582;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5UJs6BnoAASIVDI1Z4WO-11">
