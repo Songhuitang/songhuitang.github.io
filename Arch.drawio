@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T05:26:36.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="3XRRyBSpERQ-R6Vi8V2O" version="18.0.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-13T05:36:37.759Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="tAm0bkuUDtIG6ZBHeS_Q" version="18.0.3" type="github" pages="9">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Whole_arch">
     <mxGraphModel dx="1186" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1187,7 +1187,7 @@
             <mxPoint x="525" y="822.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BVoOb54HQeATzCPe1jVD-187" value="备注：&lt;br&gt;场景3与场景7入口一致&lt;br&gt;7比3多了三方权益发放链路，其他流程完全一致，故不再重复标记" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;align=center;verticalAlign=top;fontStyle=1;fontColor=#EA6B66;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
+        <mxCell id="BVoOb54HQeATzCPe1jVD-187" value="备注：&lt;br&gt;场景3中的绑定流程与场景7入口一致&lt;br&gt;7比3多了三方权益发放链路，其他流程完全一致，故不再重复标记" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;align=center;verticalAlign=top;fontStyle=1;fontColor=#EA6B66;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
           <mxGeometry x="1840" y="900" width="180" height="88" as="geometry" />
         </mxCell>
         <mxCell id="BVoOb54HQeATzCPe1jVD-382" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3.1.2&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#66B2FF;fontColor=#ffffff;" vertex="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
@@ -1502,6 +1502,9 @@
             <mxPoint x="310.0050000000001" y="865" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BVoOb54HQeATzCPe1jVD-536" value="备注：&lt;br&gt;场景7中的激活流程与场景3激活流程入口一致故不再重复标记" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;align=center;verticalAlign=top;fontStyle=1;fontColor=#EA6B66;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="v2BWGfwRVVUPkCRsSJ6M-66">
+          <mxGeometry x="1660" y="988" width="180" height="88" as="geometry" />
         </mxCell>
         <mxCell id="o_Ceyrz_SQkg0Wvn2wVu-1" value="&lt;p style=&quot;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 16px;&quot;&gt;1&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=#006EAF;labelBackgroundColor=none;fontSize=9;fillColor=#1ba1e2;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="2080" y="80" width="35" height="35" as="geometry" />
