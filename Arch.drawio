@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T09:12:46.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="uIBuM0kiBdw2vNyO2-dk" version="18.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-16T09:17:42.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="f8KHH6DxQLtwdvsB-Pah" version="18.0.3" type="github" pages="7">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Whole_arch">
     <mxGraphModel dx="1166" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1643,7 +1643,7 @@
           <mxGeometry x="1426" y="40" width="450" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;align=center;verticalAlign=top;fontStyle=1;fontColor=#EA6B66;labelBackgroundColor=none;labelBorderColor=none;" parent="vzuzCK1UheSY3gxbGFKr-2" vertex="1">
-          <mxGeometry x="13" y="250" width="2157" height="1360" as="geometry" />
+          <mxGeometry x="13" y="250" width="2157" height="1300" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-6" value="IDC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;align=center;verticalAlign=top;fontStyle=1;fontColor=#EA6B66;labelBackgroundColor=none;labelBorderColor=none;" parent="vzuzCK1UheSY3gxbGFKr-2" vertex="1">
           <mxGeometry x="680" y="1651.5" width="1018" height="195" as="geometry" />
@@ -2417,7 +2417,7 @@
           <mxGeometry x="60" y="852.5" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="2WNzhLc63YAU1lHOVA6f-6" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;A.POS绑定 / B. 三方渠道绑定 / C.官网绑定 / D. App 绑定&lt;/b&gt;&lt;br&gt;7.1.A 绑定星礼包请求&lt;br&gt;7.1.B 绑定星礼包请求&lt;br&gt;7.1.C 绑定星礼包请求&lt;br&gt;7.1.D 绑定星礼包请求&lt;br&gt;&lt;span style=&quot;font-weight: 400; font-family: helvetica; font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;7.2.1&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: helvetica; font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;CRM Adapter请求S4绑定星礼包&lt;/span&gt;&lt;span style=&quot;font-weight: 400; font-family: helvetica; font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;7.2.2&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: helvetica; font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;CRM Adapter请求FC履约&lt;/span&gt;&lt;span style=&quot;font-weight: 400; font-family: helvetica; font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;7.3 同步好礼券星礼包&lt;/span&gt;&lt;span style=&quot;font-weight: 400; font-family: helvetica; font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;7.4 请求tps调用三方发放权益&lt;br&gt;7.5 三方发放权益&lt;br&gt;7.6 携程回调open-api&lt;br&gt;7.7 携程回调FC&lt;br&gt;7.8.1 查询会员名下星礼包&lt;br&gt;7.8.2 首绑用户通知升级&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;fontColor=#994C00;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="2580" y="1126" width="320" height="190" as="geometry" />
+          <mxGeometry x="2580" y="1126" width="320" height="214" as="geometry" />
         </mxCell>
         <mxCell id="2WNzhLc63YAU1lHOVA6f-7" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;7.1.B&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#994C00;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
           <mxGeometry x="188" y="450.5" width="42" height="42" as="geometry" />
