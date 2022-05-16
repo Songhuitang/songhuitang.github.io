@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T05:10:51.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="mMFHSgcmWiBt7nuslyPw" version="18.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-16T05:28:15.334Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="gwbd1wKLudOrVhz3KGde" version="18.0.3" type="github" pages="7">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Whole_arch">
     <mxGraphModel dx="1186" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1646,7 +1646,7 @@
           <mxGeometry x="13" y="250" width="2157" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-6" value="IDC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Verdana;align=center;verticalAlign=top;fontStyle=1;fontColor=#EA6B66;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="160" y="1655" width="1018" height="195" as="geometry" />
+          <mxGeometry x="680" y="1651.5" width="1018" height="195" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-7" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;CAC&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontSize=6;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
           <mxGeometry x="809.5" y="760" width="160" height="60" as="geometry" />
@@ -1713,7 +1713,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-31" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;PnC&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontSize=6;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="398" y="1708" width="160" height="60" as="geometry" />
+          <mxGeometry x="1348" y="1708" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-32" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;fontFamily=Verdana;fontSize=10;fontColor=#EA6B66;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vzuzCK1UheSY3gxbGFKr-2" source="vzuzCK1UheSY3gxbGFKr-24" target="vzuzCK1UheSY3gxbGFKr-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1746,7 +1746,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-37" value="APP" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="270" y="87.5" width="70" height="85" as="geometry" />
+          <mxGeometry x="297" y="87.5" width="70" height="85" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-38" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.beacon;part=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontColor=#EA6B66;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-37">
           <mxGeometry x="0.5" width="36.5" height="50" relative="1" as="geometry">
@@ -1754,7 +1754,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-39" value="WeChat" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="597.5" y="77.5" width="70" height="85" as="geometry" />
+          <mxGeometry x="470" y="87.5" width="70" height="85" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-40" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.beacon;part=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontColor=#EA6B66;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-39">
           <mxGeometry x="0.5" width="36.5" height="50" relative="1" as="geometry">
@@ -1762,7 +1762,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-41" value="Website" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="891.5" y="81.75" width="70" height="85" as="geometry" />
+          <mxGeometry x="807" y="87.5" width="70" height="85" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-42" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.beacon;part=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontColor=#EA6B66;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-41">
           <mxGeometry x="0.5" width="36.5" height="50" relative="1" as="geometry">
@@ -1770,7 +1770,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-43" value="TMall" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="43.5" y="94.75" width="70" height="90" as="geometry" />
+          <mxGeometry x="137.5" y="94.75" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-44" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.beacon;part=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontColor=#EA6B66;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-43">
           <mxGeometry x="0.5" width="36.5" height="50" relative="1" as="geometry">
@@ -1786,7 +1786,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-47" value="CCC" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="1074" y="77.5" width="70" height="85" as="geometry" />
+          <mxGeometry x="963" y="87.5" width="70" height="85" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-48" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.beacon;part=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontColor=#EA6B66;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-47">
           <mxGeometry x="0.5" width="36.5" height="50" relative="1" as="geometry">
@@ -1823,10 +1823,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-54" value="profile.starbucks.com.cn" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="vzuzCK1UheSY3gxbGFKr-2" source="vzuzCK1UheSY3gxbGFKr-41" target="vzuzCK1UheSY3gxbGFKr-26">
-          <mxGeometry x="-0.8345" y="1" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.8681" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="935" y="313" as="sourcePoint" />
             <mxPoint x="770" y="543" as="targetPoint" />
-            <mxPoint as="offset" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-55" value="京东" style="strokeColor=#666666;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fillColor=#f5f5f5;gradientColor=#b3b3b3;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
@@ -1991,7 +1991,7 @@
           <mxGeometry x="1820" y="989" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-188" value="BAOZUN" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="430" y="81.75" width="70" height="85" as="geometry" />
+          <mxGeometry x="1118" y="87.5" width="70" height="85" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-189" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.beacon;part=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontColor=#EA6B66;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-188">
           <mxGeometry x="0.5" width="36.5" height="50" relative="1" as="geometry">
@@ -2005,7 +2005,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-203" value="taobao" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="137.5" y="94.75" width="70" height="90" as="geometry" />
+          <mxGeometry x="43.5" y="94.75" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-204" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.beacon;part=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontColor=#EA6B66;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-203">
           <mxGeometry x="0.5" width="36.5" height="50" relative="1" as="geometry">
@@ -2072,7 +2072,7 @@
           <mxGeometry x="2610" y="1629" width="230" height="180" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-270" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;5.各个入口端购买请求&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;orphans: 2; text-indent: 0px; widows: 2; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.1 购买付款请求&lt;br&gt;5.2.1绑定星礼包请求&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.2.2 绑定星礼包请求&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.3生成激活并绑定接口&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.4 同步星礼包好礼券&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.5.1 激活SVC&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.5.2 实际激活SVC&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.5.3 SVC绑定&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.5.4 实际SVC绑卡&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.5.5 临时SVC卡号转成正式卡号&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.6 查询会员名下星礼包&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.7 首绑用户通知升级&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.8.1 三方权益发放&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.8.2 请求三方发放权益&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#00CC00;align=left;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="1597" y="1624" width="180" height="226" as="geometry" />
+          <mxGeometry x="2570" y="1049" width="180" height="226" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-271" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;11.星礼包信息查询&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#3399FF;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
           <mxGeometry x="2220" y="1778.5" width="150" height="31.5" as="geometry" />
@@ -2081,22 +2081,22 @@
           <mxGeometry x="2220" y="1820" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-273" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;7.1 pos绑定请求&lt;br&gt;7.1.1 绑定星礼包请求&lt;br&gt;&lt;span style=&quot;font-family: helvetica; font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;7.1.2 同步好礼券星礼包&lt;/span&gt;&lt;span style=&quot;font-family: helvetica; font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;7.1.3 请求tps调用三方发放权益&lt;br&gt;7.1.4 三方发放权益&lt;br&gt;7.1.5 携程回调openapi&lt;br&gt;7.1.6 携程回调fc&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;fontColor=#994C00;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="1792" y="1744" width="170" height="110" as="geometry" />
+          <mxGeometry x="2227" y="1330" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-274" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;7.3 官网绑定请求&lt;br&gt;7.3.1 绑定星礼包请求&lt;br&gt;7.3.2 同步星礼包好礼券&lt;br&gt;7.3.3 请求tps调用三方发放权益&lt;br&gt;7.3.4 三方发放权益&lt;br&gt;7.3.5 携程回调openapi&lt;br&gt;7.3.6 携程回调fc&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;fontColor=#994C00;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="2010" y="1744" width="170" height="115" as="geometry" />
+          <mxGeometry x="2650" y="1327.5" width="170" height="115" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-275" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;7.2 三方渠道绑定请求&lt;br&gt;7.2.1 绑定星礼包请求&lt;br&gt;7.2.2 同步星礼包好礼券&lt;br&gt;7.2.3 请求tps调用三方发放权益&lt;br&gt;7.2.4 三方发放权益&lt;br&gt;7.2.5 携程回调openapi&lt;br&gt;7.2.6 携程回调fc&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;fontColor=#994C00;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="2010" y="1624" width="170" height="115" as="geometry" />
+          <mxGeometry x="2440" y="1325" width="170" height="115" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-276" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;7.4 APP绑定请求&lt;br&gt;7.4.1 绑定星礼包请求&lt;br&gt;7.4.2 同步星礼包好礼券&lt;br&gt;7.4.3 请求tps调用三方发放权益&lt;br&gt;7.4.4 三方发放权益&lt;br&gt;7.4.5 携程回调openapi&lt;br&gt;7.4.6 携程回调fc&lt;br&gt;7.4.7 查询会员名下星礼包&lt;br&gt;7.4.8 首绑用户通知升级&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;fontColor=#994C00;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="2220" y="1624" width="170" height="140" as="geometry" />
+          <mxGeometry x="2850" y="1330" width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-277" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;3.1 pos 激活&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;3.1.1 pinpad刷卡激活&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;3.1.2 pos请求fc星礼包激活&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;3.1.3 fc请求crmadapter激活&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;3.1.4 生成并激活并上传svc号&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;3.1.5 同步星礼包以及svc卡信息&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;3.2 天猫端激活&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;3.2.1 请求upp激活svc&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;3.2.2中间件请求fc星礼包激活&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;3.2.3 fc请求crmadapter星礼包激活&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;3.2.4生成并激活并上传svc&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;3.2.5同步星礼包/svc信息&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF66FF;align=left;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
           <mxGeometry x="2560" y="650" width="180" height="209.5" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-278" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;6.各个入口端领取星巴克礼包权益&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;6.1 履约领取权益请求&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;orphans: 2; text-indent: 0px; widows: 2; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;6.2绑定星礼包请求&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;6.3生成激活并绑定接口&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;6.4 同步星礼包好礼券&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;6.5 查询会员名下星礼包&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;6.6 首绑用户通知升级&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000099;align=left;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="1792" y="1624" width="180" height="110" as="geometry" />
+          <mxGeometry x="2810" y="1049" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-279" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1.1 NG创建星礼包产品&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1.2 BizOps调用s4查询星礼包信息&lt;/span&gt;&lt;br style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1.3 根据PosKey查询星礼包&lt;br&gt;1.4 调用星礼包定义接口&lt;br&gt;1.5.1 星礼包同步PC&lt;br&gt;1.5.2 星礼包同步CAC (Email)&lt;br&gt;1.5.3星礼包同步FC&lt;br&gt;1.5.4星礼包同步POS（Email）&lt;br&gt;1.5.5 同步DOMS（Email）&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#97D077;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
           <mxGeometry x="2560" y="432.5" width="210" height="150" as="geometry" />
@@ -2260,10 +2260,10 @@
           <mxGeometry x="1530" y="206" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ccjHvofRqY2WsUB3o2Ux-1" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;7&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#994C00;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="862.5" y="208" width="42" height="42" as="geometry" />
+          <mxGeometry x="750" y="206" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="GtFEW8dhiKpsk-4Mluyw-0" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;7&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#994C00;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="940" y="1613" width="42" height="42" as="geometry" />
+          <mxGeometry x="927.5" y="1613" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="RBl6rvqEzpCbscYBY-Kd-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="vzuzCK1UheSY3gxbGFKr-2" source="vzuzCK1UheSY3gxbGFKr-14" target="vzuzCK1UheSY3gxbGFKr-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2290,7 +2290,7 @@
           <mxGeometry x="1516" y="1250" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6lW7ITExwqEXWcPQmCZE-0" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;1.1&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#97D077;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="1132" y="1613" width="42" height="42" as="geometry" />
+          <mxGeometry x="1113" y="1613" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="YrZ84a6sd2rc59QCizM1-0" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;2.1&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#99CCFF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
           <mxGeometry x="590" y="1279" width="42" height="42" as="geometry" />
@@ -2313,11 +2313,26 @@
         <mxCell id="kBjpR0TVPeABiUjH9Y7E-0" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;2.2&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#99CCFF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
           <mxGeometry x="851.5" y="835.5" width="42" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="nI6oR1nKn6vi7n2_4wrU-0" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#FF66FF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="500" y="200" width="42" height="42" as="geometry" />
+        <mxCell id="nI6oR1nKn6vi7n2_4wrU-0" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3.2&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#FF66FF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
+          <mxGeometry x="1155" y="206" width="42" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="nI6oR1nKn6vi7n2_4wrU-1" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#FF66FF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
-          <mxGeometry x="1020" y="1410" width="42" height="42" as="geometry" />
+        <mxCell id="nI6oR1nKn6vi7n2_4wrU-1" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3.1&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#FF66FF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
+          <mxGeometry x="947" y="1572" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="JGMYSV_DwdL-Cuh6pOt2-1" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3.2.1&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#FF66FF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
+          <mxGeometry x="1708" y="1009" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="JGMYSV_DwdL-Cuh6pOt2-2" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3.2.2&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#FF66FF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
+          <mxGeometry x="1410" y="894.5" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="JGMYSV_DwdL-Cuh6pOt2-3" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3.2.3&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#FF66FF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
+          <mxGeometry x="780" y="662.5" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="-KykQB27vfEVx4UZNHvv-0" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3.2.4&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#FF66FF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
+          <mxGeometry x="460" y="672.5" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="WN6BYyA3Iix0fGyviAKh-0" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3.2.5&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#FF66FF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
+          <mxGeometry x="807" y="835.5" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vzuzCK1UheSY3gxbGFKr-1">
           <mxGeometry relative="1" as="geometry">
