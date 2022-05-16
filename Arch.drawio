@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T05:10:01.073Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="DukVayG0K01nurdHwO5X" version="18.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-16T05:10:51.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="mMFHSgcmWiBt7nuslyPw" version="18.0.3" type="github" pages="7">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Whole_arch">
     <mxGraphModel dx="1186" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1968,7 +1968,7 @@
         <mxCell id="vzuzCK1UheSY3gxbGFKr-155" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Libra BFF&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontSize=6;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
           <mxGeometry x="70" y="380.5" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vzuzCK1UheSY3gxbGFKr-180" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;爱奇艺网易云&lt;/div&gt;&lt;div&gt;携程全球通&lt;/div&gt;&lt;div&gt;腾讯动感地带普麦&lt;/div&gt;&lt;div&gt;QQ-SVIP&lt;/div&gt;&lt;div&gt;同程咪咕夸克b2b&lt;/div&gt;&lt;div&gt;芒果京东PLUS&lt;/div&gt;&lt;div&gt;哔哩哔哩中国移动积分商城&lt;/div&gt;&lt;div&gt;顺丰唯品会&lt;/div&gt;&lt;div&gt;中国联通&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#3399FF;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
+        <mxCell id="vzuzCK1UheSY3gxbGFKr-180" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;div&gt;爱奇艺网易云&lt;/div&gt;&lt;div&gt;携程全球通&lt;/div&gt;&lt;div&gt;腾讯动感地带普麦&lt;/div&gt;&lt;div&gt;QQ-SVIP&lt;/div&gt;&lt;div&gt;同程咪咕夸克b2b&lt;/div&gt;&lt;div&gt;芒果京东PLUS&lt;/div&gt;&lt;div&gt;哔哩哔哩中国移动积分商城&lt;/div&gt;&lt;div&gt;顺丰唯品会&lt;/div&gt;&lt;div&gt;中国联通&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
           <mxGeometry x="1232" y="44.379999999999995" width="118" height="155.37" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-181" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="vzuzCK1UheSY3gxbGFKr-2" source="vzuzCK1UheSY3gxbGFKr-26" target="vzuzCK1UheSY3gxbGFKr-9">
