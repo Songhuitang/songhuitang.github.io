@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T02:10:40.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="EwKIWgjd5VwEx_S9Iaje" version="18.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-17T02:12:22.365Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="sOKMrksJmrY3cHONc-s0" version="18.0.3" type="github" pages="7">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Whole_arch">
     <mxGraphModel dx="1166" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1629,7 +1629,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NEW Application Chain SRKit" id="6qKK3d0wg3qtPJkJ6gwt">
-    <mxGraphModel dx="5830" dy="2810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1110" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-0" />
         <mxCell id="vzuzCK1UheSY3gxbGFKr-1" parent="vzuzCK1UheSY3gxbGFKr-0" />
@@ -2598,6 +2598,15 @@
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-284" value="备注：&lt;br style=&quot;font-size: 14px;&quot;&gt;- 场景7中的激活流程与场景3激活流程入口一致故不再重复标记&lt;br style=&quot;font-size: 14px;&quot;&gt;- 场景3中的绑定流程与场景7入口一致.&lt;br style=&quot;font-size: 14px;&quot;&gt;7比3多了三方权益发放链路，其他流程完全一致，故不再重复标记&lt;br style=&quot;font-size: 14px;&quot;&gt;- 场景4与场景5入口一致.&lt;br style=&quot;font-size: 14px;&quot;&gt;5比4多了三方权益发放链路，其他流程完全一致，故不再重复标记" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontFamily=Verdana;align=left;verticalAlign=top;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;fontSize=14;" parent="vzuzCK1UheSY3gxbGFKr-2" vertex="1">
           <mxGeometry x="1624" y="1668.22" width="430" height="139.56" as="geometry" />
+        </mxCell>
+        <mxCell id="xrsqPnO2mWfSS3dUmFY0-0" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#FF66FF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
+          <mxGeometry x="754" y="202.44" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="xrsqPnO2mWfSS3dUmFY0-1" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#FF66FF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
+          <mxGeometry x="440" y="231.5" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="xrsqPnO2mWfSS3dUmFY0-2" value="&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;3&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Verdana;spacingBottom=4;spacingRight=2;strokeColor=none;labelBackgroundColor=none;fontSize=9;fillColor=#FF66FF;fontColor=#ffffff;direction=south;" vertex="1" parent="vzuzCK1UheSY3gxbGFKr-2">
+          <mxGeometry x="112" y="244.44" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="vzuzCK1UheSY3gxbGFKr-1" edge="1">
           <mxGeometry relative="1" as="geometry">
