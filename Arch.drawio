@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T02:12:22.365Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="sOKMrksJmrY3cHONc-s0" version="18.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-17T02:13:33.963Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="_xsZ-WhO0L4eaAI7ux86" version="18.0.3" type="github" pages="7">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Whole_arch">
     <mxGraphModel dx="1166" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2001,7 +2001,7 @@
             <mxPoint x="1457" y="461" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzuzCK1UheSY3gxbGFKr-203" value="taobao" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;" parent="vzuzCK1UheSY3gxbGFKr-2" vertex="1">
+        <mxCell id="vzuzCK1UheSY3gxbGFKr-203" value="淘宝/ AliPay" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;" parent="vzuzCK1UheSY3gxbGFKr-2" vertex="1">
           <mxGeometry x="43.5" y="94.75" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vzuzCK1UheSY3gxbGFKr-204" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.beacon;part=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Verdana;fontColor=#EA6B66;" parent="vzuzCK1UheSY3gxbGFKr-203" vertex="1">
